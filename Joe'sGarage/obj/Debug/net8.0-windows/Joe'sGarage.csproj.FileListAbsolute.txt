@@ -1,0 +1,16 @@
+E:\C#\Joe'sGarage\Joe'sGarage\bin\Debug\net8.0-windows\Joe'sGarage.exe
+E:\C#\Joe'sGarage\Joe'sGarage\bin\Debug\net8.0-windows\Joe'sGarage.deps.json
+E:\C#\Joe'sGarage\Joe'sGarage\bin\Debug\net8.0-windows\Joe'sGarage.runtimeconfig.json
+E:\C#\Joe'sGarage\Joe'sGarage\bin\Debug\net8.0-windows\Joe'sGarage.dll
+E:\C#\Joe'sGarage\Joe'sGarage\bin\Debug\net8.0-windows\Joe'sGarage.pdb
+E:\C#\Joe'sGarage\Joe'sGarage\obj\Debug\net8.0-windows\Joe_sGarage.Form1.resources
+E:\C#\Joe'sGarage\Joe'sGarage\obj\Debug\net8.0-windows\Joe'sGarage.csproj.GenerateResource.cache
+E:\C#\Joe'sGarage\Joe'sGarage\obj\Debug\net8.0-windows\Joe'sGarage.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Joe'sGarage\Joe'sGarage\obj\Debug\net8.0-windows\Joe'sGarage.AssemblyInfoInputs.cache
+E:\C#\Joe'sGarage\Joe'sGarage\obj\Debug\net8.0-windows\Joe'sGarage.AssemblyInfo.cs
+E:\C#\Joe'sGarage\Joe'sGarage\obj\Debug\net8.0-windows\Joe'sGarage.csproj.CoreCompileInputs.cache
+E:\C#\Joe'sGarage\Joe'sGarage\obj\Debug\net8.0-windows\Joe'sGarage.dll
+E:\C#\Joe'sGarage\Joe'sGarage\obj\Debug\net8.0-windows\refint\Joe'sGarage.dll
+E:\C#\Joe'sGarage\Joe'sGarage\obj\Debug\net8.0-windows\Joe'sGarage.pdb
+E:\C#\Joe'sGarage\Joe'sGarage\obj\Debug\net8.0-windows\Joe'sGarage.genruntimeconfig.cache
+E:\C#\Joe'sGarage\Joe'sGarage\obj\Debug\net8.0-windows\ref\Joe'sGarage.dll
